@@ -125,8 +125,8 @@ DEVTRACK/
 After publishing the project to GitHub, clone it using your repository URL:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd DEVTRACK
+git clone https://github.com/Avni23314/DevTrack.git
+cd DevTrack
 ```
 
 Replace the placeholder with the actual repository URL.
