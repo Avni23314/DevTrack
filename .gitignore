@@ -1,0 +1,22 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local environment variables
+.env
+
+# Django local database
+db.sqlite3
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Postman-generated workspace files
+/postman/
+/.postman/
